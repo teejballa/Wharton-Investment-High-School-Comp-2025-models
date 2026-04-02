@@ -1,0 +1,2 @@
+Median End Value,Mean End Value,5th Percentile,95th Percentile,Initial Portfolio Value,Median CAGR,Mean CAGR,Median Annual Volatility,Probability Goal,Probability Bust,Calibrated Real Drift (annual),Equity Valuation Scalar,Assumed Inflation (annual),Inflation Source
+2215965.206250124,3598029.5860475414,1275849.7439688894,9751646.831849916,1591350.7167949677,0.033660800259165846,0.05295451704641861,0.1090941992596336,0.57,0.12,-0.012318491968759922,0.5050146771037182,0.0231,FRED T10YIE

@@ -1,0 +1,4 @@
+Ticker,Asset Type,Classification Source,User Override,Current Market Value,Portfolio Weight,Historical Real Drift (daily),Adjusted Real Drift (daily),Historical Real Return (annual),Adjusted Real Return (annual),Forward Nominal Input (annual),Forward Real Target (annual),Valuation Scalar Applied,Metadata Available,Metadata Category
+INSM,equity,metadata,,1896.0,0.2968166105724177,-0.0006153549971338152,-0.0006153549971338152,-0.14364430643016537,-0.14364430643016537,0.112029,0.112029,,True,
+GILD,equity,metadata,,2395.8,0.37505972342267846,-0.00012299223718403418,-0.00012299223718403418,-0.03051865248764963,-0.03051865248764963,0.03187,0.03187,,True,
+MSFT,equity,metadata,,2095.982666015625,0.3281236660049038,0.000747989464590233,0.00037709993886362296,0.2074290476122224,0.09969094869124126,,,0.5041514041514041,True,
